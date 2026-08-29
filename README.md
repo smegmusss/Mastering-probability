@@ -21,6 +21,12 @@ Problems are categorized into 4 tiers of mathematical and analytical complexity:
 | **Impossible** | 💀 | good luck. |
 
 ---
+## ⚙️ A Note on Randomness & Simulations (PRNG)
+
+All empirical verifications in this repository rely on Python's standard `random` module or NumPy. It is worth noting:
+
+* **Pseudo-Randomness (PRNG):** Python's `random` uses the **Mersenne Twister** algorithm (with a period of $2^{19937}-1$). It is a deterministic mathematical formula that generates a sequence of numbers that *mimics* true randomness starting from an initial seed.
+* **Empirical Validation vs Proof:** Monte Carlo simulations serve as numerical approximations to verify expected values and distributions. They confirm that our theoretical formulas match empirical observations, but are not a substitute for formal mathematical proofs.
 
 ## 📖 Primary References & Literature
 
