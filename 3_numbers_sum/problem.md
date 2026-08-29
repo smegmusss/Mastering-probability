@@ -1,4 +1,4 @@
-# 🟠 Optiver Quant: Sum of 3 Uniform Random Numbers Greater Than 100
+# 🟠 Sum of 3 Uniform Random Numbers Greater Than 100
 
 ## 🎯 Problem Statement
 You choose **three numbers** $X, Y, Z$ independently and uniformly at random from the interval $[0, 50]$:
