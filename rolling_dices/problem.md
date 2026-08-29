@@ -1,4 +1,4 @@
-# 🔴 Hard: Expected Product of Face Counts in 10 Die Rolls (Multinomial Expectation)
+# 🔴 Expected Product of Face Counts in 10 Die Rolls (Multinomial Expectation)
 
 ## 🎯 Problem Statement
 A fair six-sided die is rolled **$10$ times independently**. 
