@@ -1,4 +1,4 @@
-# 🟠 Space Partitioning by 99 Planes
+# 🔴 Space Partitioning by 99 Planes
 
 ## 🎯 Problem Statement
 Suppose you have **$99$ flat planes** in three-dimensional Euclidean space ($\mathbb{R}^3$).
