@@ -1,4 +1,4 @@
-# 🟢 Maximum Regions Formed by 99 Circles
+# 🟠 Maximum Regions Formed by 99 Circles
 
 ## 🎯 Problem Statement
 Suppose you have **$99$ circles** drawn on a flat two-dimensional plane.
