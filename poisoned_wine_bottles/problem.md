@@ -1,4 +1,4 @@
-# 🟢 Poisoned Wine Bottles and the 10 Servants
+# 🟠 Poisoned Wine Bottles and the 10 Servants
 
 ## 🎯 Problem Statement
 A royal palace has **$1000$ bottles of wine**, but the king learns that exactly **one bottle contains a deadly, undetectable poison**.
