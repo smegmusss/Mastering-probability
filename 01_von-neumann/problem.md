@@ -1,10 +1,31 @@
 # 🟢 Simulating a Fair Coin with an Unfair One
 
 ## 🎯 Problem Statement
-You are given a physical coin that is biased: the probability $p$ of landing on **Heads** is strictly between $0$ and $1$ ($p \neq 0.5$), but the exact value of $p$ is unknown to you. Each flip is independent of all previous flips.
+You are given a physical coin that is biased: the probability $p$ of landing on **Heads** is strictly between $0$ and $1$ ($p \neq 0.5$), but the exact value of $p$ is unknown to you.
 
-Design an algorithm/procedure using only this biased coin to simulate a perfectly fair **50/50** decision (equivalent to a fair coin where $P(\text{Win}) = 0.5$).
+Design an algorithm using only this biased coin to simulate a perfectly fair **50/50** decision.
 
-### ❓ Questions to Answer
-1. What sequence of tosses allows you to extract unbiased outcomes?
-2. What is the expected number of total flips required to generate a single fair bit?
+---
+
+<details>
+<summary><b>💡 Click to Reveal the Analytical Solution</b></summary>
+
+<br>
+
+### The Core Symmetry Insight
+Flip the biased coin in independent consecutive pairs $(C_1, C_2)$:
+
+- $P(HT) = p(1 - p)$
+- $P(TH) = (1 - p)p = p(1 - p)$
+- $P(HH) = p^2$
+- $P(TT) = (1 - p)^2$
+
+Since $P(HT) = P(TH)$:
+1. If the outcome is **$HT$**, declare **Heads (1)**.
+2. If the outcome is **$TH$**, declare **Tails (0)**.
+3. If $HH$ or $TT$ occurs, discard both and repeat.
+
+### Expected Flips
+$$\mathbb{E}[\text{Total Flips}] = \frac{1}{p(1 - p)}$$
+
+</details>
