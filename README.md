@@ -20,6 +20,42 @@ Problems are categorized into 4 tiers of mathematical and analytical complexity:
 | **Difficult** | 🔴 | Advanced continuous distributions, generating functions, or subtle invariants. |
 | **Impossible** | 💀 | good luck. |
 
+## 🟢 Easy / Foundational
+- [01 Von Neumann (Randomness Extraction)](./01_von-neumann)
+- [1-Pile Game (Nim Variant)](./1-pile_game)
+- [1000! (Trailing Zeros & Factorials)](./1000!)
+- [100 Balls Optimization](./100_balls)
+- [12 Balls: Easy (Counterfeit Coin)](./12_balls_EASY)
+- [Burning Ropes (Timing Problem)](./Burning_ropes)
+- [Mutilated Chessboard (Domino Covering)](./Mutilated_chessboard)
+- [Chessboard Coloring (Grid Parity Conflict Resolution)](./chessboard_coloring)
+
+## 🟠 Medium / Intermediate
+- [3 Numbers Sum Greater Than 100](./3_numbers_sum)
+- [12 Balls: Medium (Counterfeit Coin)](./12_balls_MEDIUM)
+- [Marble Swap (Inversion Counting)](./Marble_swap)
+- [10 Chords (Circle Geometry)](./10_chords)
+- [Derangements (Subfactorials)](./Derangements)
+- [Taxi Problem (Expected Value & Routes)](./Taxi_problem)
+- [1D Random Walk](./1D_random_walk)
+- [2D Random Walk (Recurrence Theorem)](./2D_random_walk)
+- [25 Horses (Optimal Racing Strategy)](./25_horses)
+- [99 Circles (Geometric Intersection)](./99_circles)
+- [Drunk Passenger (Seat Assignment Puzzle)](./Drunk_passenger)
+- [Manhattan Distance & Expected Meeting Time](./Manhattan_distance)
+- [Nim Game (Combinatorial Game Theory)](./Nim_game)
+- [Poisoned Wine Bottles (Binary Testing)](./poisoned_wine_bottles)
+- [Wald's Identity (Random Sum of Random Variables)](./Wald's_identity)
+
+## 🔴 Difficult / Hard
+- [99 Planes (Space Partitioning)](./99_planes)
+- [Broken Sticks (Triangle Probability Paradox)](./Broken_sticks)
+- [Buffon's Needle (Geometric Probability)](./Buffon's_needle)
+- [Rolling Dices (Expected Value & Optimal Stopping)](./rolling_dices)
+
+## 💀 Impossible / The Ultimate Class
+- [100 Prisoners & Boxes (Permutation Cycles)](./100_prisoners)
+
 ---
 ## ⚙️ A Note on Randomness & Simulations (PRNG)
 
