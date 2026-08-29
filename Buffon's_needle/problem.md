@@ -1,4 +1,4 @@
-# 🟠 Buffon's Needle Problem (Estimating $\pi$)
+# 🔴 Buffon's Needle Problem (Estimating $\pi$)
 
 ## 🎯 Problem Statement
 A flat floor is marked with parallel, equidistant lines spaced by a distance $D$.  
