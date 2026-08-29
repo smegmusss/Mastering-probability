@@ -15,7 +15,7 @@ Problems are classified across 4 tiers of analytical and mathematical complexity
 | **Easy** | 🟢 | Warm-up problems, standard symmetry, direct formulas, or basic conditional probability. |
 | **Medium** | 🟠 | Multi-step reasoning, Markov chains, recurrences, or non-trivial combinatorial counting. |
 | **Difficult** | 🔴 | Advanced continuous distributions, coupling arguments, generating functions, or subtle invariants. |
-| **Impossible** | 💀 | Legendary brainteasers, counter-intuitive paradoxes, or multi-layered optimization problems. |
+| **Impossible** | 💀 | Good luck. |
 
 ---
 
