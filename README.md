@@ -46,6 +46,8 @@ Problems are categorized into 4 tiers of mathematical and analytical complexity:
 - [Nim Game (Combinatorial Game Theory)](./Nim_game)
 - [Poisoned Wine Bottles (Binary Testing)](./poisoned_wine_bottles)
 - [Wald's Identity (Random Sum of Random Variables)](./Wald's_identity)
+- [Optimal stopping (3 dices case)](./optimal_stopping)
+- [Optimization (another dice problem)](./Optimization)
 
 ## 🔴 Difficult / Hard
 - [99 Planes (Space Partitioning)](./99_planes)
