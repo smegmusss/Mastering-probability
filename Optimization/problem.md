@@ -55,6 +55,6 @@ $$P(6) = 6 \cdot \left(\frac{1}{6}\right) \cdot \left(\frac{5}{6}\right)^5 = \le
 ### Optimal Choice Summary
 Rolling either **5 dice** or **6 dice** achieves the exact same maximum probability of obtaining exactly one 6:
 
-$$\mathbf{n = 5 \quad \text{or} \quad n = 6} \qquad \left(P_{\max} = \frac{3125}{7776} \approx 40.19\%\right)$$
+$$\mathbf{n = 5 \quad \text{or} \quad n = 6} \qquad \left(P_{\max} = \frac{3125}{7776} \approx \text{40.19\%}\right)$$
 
 </details>
